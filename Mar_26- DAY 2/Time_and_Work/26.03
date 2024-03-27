@@ -1,4 +1,4 @@
-A can do a work in 20 dats. B is 25% more efficent than A. The no. of days taken by B to do the same piece of work is.
+1. A can do a work in 20 dats. B is 25% more efficent than A. The no. of days taken by B to do the same piece of work is.
 a) 15 b) 16 c) 18 d) 20
 
 Solution:
@@ -7,3 +7,17 @@ Solution:
 B is (125/100)*(1/20) = 16 days
 
 
+2. A can finish a work in 24 days, B can finish in 9 days and c in 12 days. B and C start the work but are forced to leave after 3 days. The remaining work was done by A in...
+a) 5 days b) 6 c) 10 d) 11
+
+Solution:
+
+1d work of A : 1/24 
+1d work of B : 1/9
+1d work of C : 1/12
+1d work of B and C :  3(1/9 + 1/12) = 7/12
+
+Remaining Work : 5/12
+
+A's work : (1/24)x = 5/12
+>>x = 10 days
