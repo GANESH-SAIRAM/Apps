@@ -1,0 +1,31 @@
+1. A and B can do a piece of work individually in 12 and 20 days respectively. They work together for 6 days before A decides to leave. How many days will it take B to complete the work on his own?
+a)4 b)14 c)6 d)3
+
+Solution:
+
+1day work of A : 1/12
+1day work of B : 1/20
+
+upto 6 days A and B 
+>>6(1/12 + 1/20) = 12/15
+
+Remaining Work = 3/15
+
+3/15 = (1/20)*X
+>>X = 4
+
+
+
+2. Dhilip and Samarat can do a piece of work in 16 days and 24 days respectively. Samrat works alone for 15 days and leaves. In how many days can Dhilip completes the remaining work?
+a)8 b)10 c)6 d)7
+
+Solution:
+
+1day work of dhilip : 1/16
+1day work of samrat : 1/24
+
+15 day work of samarat: 15*(1/24) = 15/24
+Remaining work : 9/24
+
+9/24 = 1/16*x
+>> x = 6 days
